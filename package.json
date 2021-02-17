@@ -1,0 +1,17 @@
+{
+  "name": "oop-bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Account.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx jest",
+    "test:watch": "npx jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
